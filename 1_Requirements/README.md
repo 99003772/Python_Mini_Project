@@ -1,6 +1,6 @@
 
 ## Introduction
-It is a Data Set problem that will allow to users to retrive data from data set. However, the input has form of the ps number,name,gmail. And output is  all student data .
+It is a Data Set problem that will allow users to retrive data from data set. However, the input is in the form of the ps number,name,email id. The required output is  all the candidate data.
 
 
 
@@ -34,7 +34,6 @@ It is a Data Set problem that will allow to users to retrive data from data set.
 
 
 ## When:
-*	Evalaution of exams
 *	Searching for person information
 *	To get the contact information
 *	To get the required details of that persons educational qualification.
@@ -44,7 +43,7 @@ It is a Data Set problem that will allow to users to retrive data from data set.
 ## Where:
 *	To check the information and bio of a person
 *	Very useful during emergency times like health issues
-*	We can also use it for evaluation of marks using the mail,search the location of person
+*	We can also use it for knowing that person's bank details and other details related to his or her educational qualification. 
 
 
 
