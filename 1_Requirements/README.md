@@ -38,6 +38,10 @@ It is a Data Set problem that will allow users to retrive data from data set. Ho
 *	To get the contact information
 *	To get the required details of that persons educational qualification.
 
+## Why:
+* We are using to retrieve tha data of an individual candidate from the excel workbook of 5 sheets where all the relevant data of 40 candidates is present.
+* We can easily access the details of that individual by giving some input such as name , ps no and email id.
+
 
 
 ## Where:
